@@ -71,7 +71,7 @@ install_requires = [
     # NOTE: Overlays have to choose which elasticsearch version they want to
     # use and pin both elasticsearch and elasticsearch-dsl libraries.
     'elasticsearch>=2.0.0,<6.0',
-    'elasticsearch-dsl>=2.0.0,<5.1.0',
+    'elasticsearch-dsl>=2.0.0,<6.0.0',
     'invenio-query-parser>=0.4.1',
     'requests>=2.4.0',
 ]
